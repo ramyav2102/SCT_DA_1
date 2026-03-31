@@ -37,7 +37,7 @@ Displays the distribution of sales across different regions, helping identify to
 
 ## Profit by Category
 
-![Profit by Category](Profit_by_Category.png)
+![Profit by Category](Profit_by_Category)
 
 Shows profit contribution by each product category, highlighting high-performing categories and those requiring improvement.
 
